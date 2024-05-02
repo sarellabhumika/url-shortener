@@ -1,0 +1,27 @@
+body
+{
+    background-image: url("./images/img1.avif");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    margin-top: 200px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+input
+{
+border-radius: 5px;
+padding: 5px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+button {
+    border-radius: 5px;
+    background-color: white;
+    font-size: 12px;
+    padding: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 10px;
+
+}
+button:hover {
+background-color:aquamarine;
+}
